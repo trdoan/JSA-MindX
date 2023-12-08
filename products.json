@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "smartphone",
+      "branch": "APPLE",
+      "name": "iPhone 12",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-1-1-org.jpg",
+      "salePrice": 999,
+      "price": 1099,
+      "desc": "The iPhone 12 is a powerful smartphone with advanced features.",
+      "relatedProducts": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "type": "laptop",
+      "branch": "APPLE",
+      "name": "MacBook Pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/302150/macbook-pro-16-inch-m2-pro-1tb-180123-011703-600x600.jpg",
+      "salePrice": 1999,
+      "price": 2199,
+      "desc": "The MacBook Pro is a high-performance laptop for professionals.",
+      "relatedProducts": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": 3,
+      "type": "tablet",
+      "branch": "APPLE",
+      "name": "iPad Air",
+      "image": "https://cdn.tgdd.vn/Products/Images/522/248096/ipad-air-5-wifi-grey-thumb-600x600.jpg",
+      "salePrice": 699,
+      "price": 799,
+      "desc": "The iPad Air is a versatile tablet for work and play.",
+      "relatedProducts": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": 4,
+      "type": "tablet",
+      "branch": "APPLE",
+      "name": "iPad Pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/522/248096/ipad-air-5-wifi-grey-thumb-600x600.jpg",
+      "salePrice": 1299,
+      "price": 1999,
+      "desc": "The iPad Pro is a versatile tablet for work and play.",
+      "relatedProducts": [
+        6,
+        7
+      ]
+    }
+  ]
+}
